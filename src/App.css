@@ -1,0 +1,31 @@
+.dataTable_filter  div.input-field {
+     margin-top: 0; 
+     margin-bottom: 0; 
+}
+.blue.accent-3 {
+     background-color: white !important;
+}
+.btn {
+     text-decoration: none;
+     color: #fff;
+     background-color: violet;
+     text-align: center;
+     letter-spacing: .5px;
+     transition: background-color .2s ease-out;
+     cursor: pointer;
+ }
+ nav .brand-logo {
+     position: absolute;
+     color: black;
+     display: inline-block;
+     font-size: 2.1rem;
+     padding: 0;
+ }
+ nav ul a {
+     transition: background-color .3s;
+     font-size: 1rem;
+     color: black;
+     display: block;
+     padding: 0 15px;
+     cursor: pointer;
+ }
