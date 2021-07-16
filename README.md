@@ -16,6 +16,8 @@
 
 ## Ejecutar Frontend
 
+nvm use 12.14.1
+
 1. Yarn install
 2. Yarn start
 
